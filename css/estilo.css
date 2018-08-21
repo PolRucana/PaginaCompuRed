@@ -133,7 +133,12 @@ nav ul li a:hover{
         padding: 4px 20px;
     }
 
+    .logo{
+        margin: auto;
+    }
+
     .menu{
+        position: absolute;
         display: block;
     }
 
